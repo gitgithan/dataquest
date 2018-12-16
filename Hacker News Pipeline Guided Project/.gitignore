@@ -1,4 +1,6 @@
+# Project Specific (filesize >100mb too large to push to github)
 hn_stories_2014.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

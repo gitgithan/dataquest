@@ -1,6 +1,9 @@
-# Byte-compiled / optimized / DLL files
+# Project Specific (File size too big to be on github)
 game_log.csv
-mlb.db
+mlb.db    #database created from running code
+
+# Byte-compiled / optimized / DLL files
+
 __pycache__/
 *.py[cod]
 *$py.class
